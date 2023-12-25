@@ -33,7 +33,7 @@ S: Siblings<br>
    ./flamesCalculator
    ```
 
-5.Enter your name and your crush's name when prompted<br>The program will output the relationship status
+5.Enter your name and your crush's name when prompted<br>The program will output the relationship status<br>
  &emsp; eg:
   ```bash
    Enter your name: John
