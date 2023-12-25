@@ -24,11 +24,11 @@ int main() {
 
     if(result=='l'){
         printf("Relationship status: Love\n");
-        printf("“Love is a dagger. It's a weapon to be wielded far away or up close. You can see yourself in it. It's beautiful.\n Until it makes you bleed. But ultimately when you reach for it... It isn't real. Love is an imaginary dagger.”");
+        printf("Love is a dagger. It's a weapon to be wielded far away or up close. You can see yourself in it. It's beautiful.\n Until it makes you bleed. But ultimately when you reach for it... It isn't real. Love is an imaginary dagger.");
     }
     if(result=='a'){
         printf("Relationship status: Attraction\n");
-        printf("“What you seek is not seeking you.”");
+        printf("What you seek is not seeking you.");
     }
     if(result=='m'){
         printf("Relationship status: Marriage\n");
