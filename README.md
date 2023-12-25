@@ -36,8 +36,8 @@ S: Siblings<br>
 5.Enter your name and your crush's name when prompted and the program will output the relationship status<br>
  &emsp; eg:
   ~~~
-   Enter your name: John
-   Enter your crush's name: Jane
+   Enter your name: Tom
+   Enter your crush's name: Zendaya
  
    Relationship status: Love
    ~~~
