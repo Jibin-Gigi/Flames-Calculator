@@ -10,7 +10,7 @@ int main() {
     scanf("%s", name1);
     printf("Enter your crush's name: ");
     scanf("%s", name2);
-    printf("\n");
+    printf("\n");  
 
     int length1 = strlen(name1);
     int length2 = strlen(name2);
