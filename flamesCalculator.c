@@ -19,7 +19,7 @@ int main() {
     
     if(result=='f'){
         printf("Relationship status: Friendship\n");
-        printf("“En Nanbane pol yaarum ille indha bhoomiyille” ");
+        printf("En Nanbane pol yaarum ille indha bhoomiyille ");
     }
 
     if(result=='l'){
