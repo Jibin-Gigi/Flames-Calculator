@@ -1,6 +1,7 @@
 # Flames-Calculator
 This is a program that calculates the relationship status between two individuals based on their names using the FLAMES algorithm.
 
+
 ## FLAMES Algorithm
 The FLAMES algorithm is a playful method to determine the relationship status between two individuals based on their names. It works by eliminating common letters in the names and iteratively removing letters from the word "FLAMES" until only one letter remains. The result corresponds to the relationship status.
 
