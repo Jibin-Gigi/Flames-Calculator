@@ -19,29 +19,29 @@ int main() {
     
     if(result=='f'){
         printf("Relationship status: Friendship\n");
-        printf("En Nanbane pol yaarum ille indha bhoomiyille ");
+        printf("En Nanbane pol yaarum ille indha bhoomiyille \n");
     }
 
     if(result=='l'){
         printf("Relationship status: Love\n");
-        printf("Love is a dagger. It's a weapon to be wielded far away or up close. You can see yourself in it. It's beautiful.\n Until it makes you bleed. But ultimately when you reach for it... It isn't real. Love is an imaginary dagger.");
+        printf("Love is a dagger. It's a weapon to be wielded far away or up close. You can see yourself in it. It's beautiful.\n Until it makes you bleed. But ultimately when you reach for it... It isn't real. Love is an imaginary dagger.\n");
     }
     if(result=='a'){
         printf("Relationship status: Attraction\n");
-        printf("What you seek is not seeking you.");
+        printf("What you seek is not seeking you.\n");
     }
     if(result=='m'){
         printf("Relationship status: Marriage\n");
-        printf("Congrats buddy \nSome random advice for you..Marriage is when two become one. The trouble starts when they try to decide which one.So better think twice ");
+        printf("Congrats buddy \nSome random advice for you..Marriage is when two become one. The trouble starts when they try to decide which one.So better think twice \n");
             
     }
     if(result=='e'){
         printf("Relationship status: Enemy\n");
-        printf("Oh, the misery.... Everybody wants to be my enemy....\n Spare the sympathy... Everybody wants to be my enemy-y-y-y-y (Look out for yourself)");
+        printf("Oh, the misery.... Everybody wants to be my enemy....\n Spare the sympathy... Everybody wants to be my enemy-y-y-y-y (Look out for yourself)\n");
     }
     if(result=='s'){
         printf("Relationship status: Siblings\n");
-        printf("In search of gold, you got a diamond");
+        printf("In search of gold, you got a diamond\n");
     }
 
     return 0;
