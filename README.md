@@ -51,3 +51,5 @@ S: Siblings<br>
 
 > **_NOTE:_** 
 It's important to note that the <strong>*FLAMES Game*</strong> is purely for entertainment purposes, and the algorithm used is not based on any scientific or logical principles. It's a fun way for individuals to engage with each other and adds an element of excitement and curiosity to the process of exploring relationships. Participants typically do not take the results seriously and understand that the game is just a playful activity.
+
+**_🔥 Fantastic, my crush is my nemesis. Maybe we’ll fall in love over a swordfight? 🔥_**
